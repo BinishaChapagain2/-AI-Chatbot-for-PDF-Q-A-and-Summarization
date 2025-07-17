@@ -1,0 +1,10 @@
+langchain
+langchain-community
+llama-parse
+python-dotenv
+langchain-groq
+langchain_huggingface
+transformers
+sentence-transformers
+chromadb
+streamlit
